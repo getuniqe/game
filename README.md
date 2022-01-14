@@ -1,1 +1,1 @@
-# game
+Receipt generator
